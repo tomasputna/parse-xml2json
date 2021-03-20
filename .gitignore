@@ -131,4 +131,5 @@ dmypy.json
 # Credencial
 token.json
 credencial.json
+credentials.json
 xml_file/
