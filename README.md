@@ -2,7 +2,9 @@
 Convert XML to JSON with Python 3 and defusedxml and push Sheets API
 
 # Install
-Enable [Step by Step Ininit Sheets API](https://developers.google.com/sheets/api/quickstart/python) 
+1. Enable [Step by Step Init Sheets API](https://developers.google.com/sheets/api/quickstart/python) 
+2. Change API KEY: `SAMPLE_SPREADSHEET_ID = 'id'`
+3. Change dir with XML file `loadXMLFile()`
 
 # Usage
 ```sh
